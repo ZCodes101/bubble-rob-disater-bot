@@ -1,4 +1,4 @@
-# bubble-rob-disater-bot
+# bubble-rob-disater-bot AI in Robotics
 Bubble Rob Disaster Recovery Robot
 
 Deigned a realistic recovery envirment for a robot to navigate through obstacles, find suvuviros, and alert first responders if found. 
